@@ -3,7 +3,7 @@
 	"description": "PHP library for TwentyFourSeven Web Services",
 	"license": "proprietary",
 	"require": {
-		"php": "5.6 - 8.1",
+		"php": "~8.1.0 || ~8.5.0",
 		"ext-soap": "*"
 	},
 	"autoload": {
